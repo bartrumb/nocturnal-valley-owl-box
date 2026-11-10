@@ -1,0 +1,9 @@
+numpy
+scipy
+trimesh
+manifold3d>=3.0
+scikit-image
+matplotlib
+fonttools
+embreex   # fast ray casting for wrapping the relief; without it the build is far slower and needs lots of RAM
+rtree
